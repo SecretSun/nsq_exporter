@@ -14,8 +14,8 @@ NSQ exporter for prometheus.io, written in go.
 
     OR
 
-    go get -u github.com/lovoo/nsq_exporter
-    go install github.com/lovoo/nsq_exporter
+    go get -u github.com/SecretSun/nsq_exporter
+    go install github.com/SecretSun/nsq_exporter
 
 ## Contributing
 
